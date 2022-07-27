@@ -2,6 +2,8 @@ hello world!
 
 I'm learning Git.
 
+I create a remote repository.
+
 Add new context!
 
 change the file!
